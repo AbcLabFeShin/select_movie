@@ -3,12 +3,12 @@
 - **`Team name` :** 무비셀렉터 ( 영화 평점사이트 제작 )
 - **`Project duration` :** 2023.03.13 - 2023.04.14
 - **`Team members` :** 주양아(팀장), 이인국, 구성미, 신현중
-- **`Link` :** [무비셀렉터 방문하기👀](http://test123bukit.s3-website.ap-northeast-2.amazonaws.com/)
+<!-- - **`Link` :** [무비셀렉터 방문하기👀](http://test123bukit.s3-website.ap-northeast-2.amazonaws.com/) -->
 - **`Service overview`:** [서비스 메뉴얼](https://docs.google.com/presentation/d/1_39FyGsa1KkkKXAu64_Ennuz7S1vAVaz81CvAqWM3-o/edit?usp=sharing)
 - **`Pages overview`:** [화면 정의서(Figma)](https://url.kr/ticnfe)
 - **`Functional Requirement`:** [사용자 요구사항 정의서](https://url.kr/2inmsa)
 - **`Functional Test`:** [개발자 테스트 문서](https://url.kr/s5aoxf)
-- **`API Specification`:** [API 명세서](https://url.kr/tebgc2)
+<!-- - **`API Specification`:** [API 명세서](https://url.kr/tebgc2) -->
 
 <br/>
 
