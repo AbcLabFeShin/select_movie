@@ -52,7 +52,7 @@ Notion|Github|Discord|Figma|
 
 ### Front-End
 
-React|Scss|JavaScript|esLint|Prettier|
+React|Sass|JavaScript|esLint|Prettier|
 |  :--: | :--: | :--: | :--: | :--: |
 |  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />|  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /> |
 
